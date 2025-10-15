@@ -5,7 +5,7 @@
 	"launcher_name": "/launcher_space.apk",
 	"isTest": false,
 	"test_api": false,
-        "api": "https://files.empiremobile.online/matrp-zakaz-tytor-edgar/main.json?edgar=1829top09",
+        "api": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/main.json?edgar=1829top09",
 	"archives": [
         {
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
