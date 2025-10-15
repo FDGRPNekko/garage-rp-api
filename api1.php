@@ -11,7 +11,7 @@
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/archive_txd1.zip",
             "size": 545036062,
-            "urls": "https://www.dropbox.com/scl/fi/xpzxki80dymuzzdqo0t1r/archive_txd1.zip?rlkey=gfwadzisjt4kap1swegir4jsb&st=e59oh9w6&dl=1?edgar=1829top09",
+            "urls": "https://www.dropbox.com/scl/fi/xpzxki80dymuzzdqo0t1r/archive_txd1.zip?rlkey=gfwadzisjt4kap1swegir4jsb&st=e59oh9w6&dl=1",
 			"paths": [
 				{
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/gta_int"
