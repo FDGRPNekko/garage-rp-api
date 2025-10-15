@@ -1,10 +1,10 @@
 {
-	"servers": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/Requests/Servers.php?edgar=1829top09",
-	"stories": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/Requests/Stories.php?edgar=1829top09",
-	"faq": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/Requests/Faq.php?edgar=1829top09",
-	"createCharacter": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/Requests/CreateCharacter.php?edgar=1829top09",
-    "verifyAuth": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/Requests/VerifyAuth.php?edgar=1829top09",
-    "accountDetails": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/Requests/AccountDetails.php?edgar=1829top09",
-    "isAcc": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/Requests/IsAcc.php?edgar=1829top09",
-    "skinsCDN": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/images/skin_"
+	"servers": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/refs/heads/main/api/Requests/Servers.php?edgar=1829top09",
+	"stories": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/refs/heads/main/api/Requests/Stories.php?edgar=1829top09",
+	"faq": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/refs/heads/main/api/Requests/Faq.php?edgar=1829top09",
+	"createCharacter": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/refs/heads/main/api/Requests/CreateCharacter.php?edgar=1829top09",
+    "verifyAuth": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/refs/heads/main/api/Requests/VerifyAuth.php?edgar=1829top09",
+    "accountDetails": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/refs/heads/main/api/Requests/AccountDetails.php?edgar=1829top09",
+    "isAcc": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/refs/heads/main/api/Requests/IsAcc.php?edgar=1829top09",
+    "skinsCDN": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/refs/heads/main/api/images/skin_"
 }
