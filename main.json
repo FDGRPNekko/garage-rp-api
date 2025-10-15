@@ -1,10 +1,10 @@
 {
-	"servers": "https://files.empiremobile.online/matrp-zakaz-tytor-edgar/api/Requests/Servers.php?edgar=1829top09",
-	"stories": "https://files.empiremobile.online/matrp-zakaz-tytor-edgar/api/Requests/Stories.php?edgar=1829top09",
-	"faq": "https://files.empiremobile.online/matrp-zakaz-tytor-edgar/api/Requests/Faq.php?edgar=1829top09",
-	"createCharacter": "https://files.empiremobile.online/matrp-zakaz-tytor-edgar/api/Requests/CreateCharacter.php?edgar=1829top09",
-    "verifyAuth": "https://files.empiremobile.online/matrp-zakaz-tytor-edgar/api/Requests/VerifyAuth.php?edgar=1829top09",
-    "accountDetails": "https://files.empiremobile.online/matrp-zakaz-tytor-edgar/api/Requests/AccountDetails.php?edgar=1829top09",
-    "isAcc": "https://files.empiremobile.online/matrp-zakaz-tytor-edgar/api/Requests/IsAcc.php?edgar=1829top09",
-    "skinsCDN": "https://files.empiremobile.online/matrp-zakaz-tytor-edgar/api/images/skin_"
+	"servers": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/Requests/Servers.php?edgar=1829top09",
+	"stories": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/Requests/Stories.php?edgar=1829top09",
+	"faq": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/Requests/Faq.php?edgar=1829top09",
+	"createCharacter": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/Requests/CreateCharacter.php?edgar=1829top09",
+    "verifyAuth": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/Requests/VerifyAuth.php?edgar=1829top09",
+    "accountDetails": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/Requests/AccountDetails.php?edgar=1829top09",
+    "isAcc": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/Requests/IsAcc.php?edgar=1829top09",
+    "skinsCDN": "https://raw.githubusercontent.com/FDGRPNekko/garage-rp-api/api/images/skin_"
 }
